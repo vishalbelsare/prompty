@@ -1,6 +1,6 @@
 {
-  "name": "promptyjs",
-  "version": "0.1.0",
+  "name": "@prompty/core",
+  "version": "0.1.4",
   "description": "Prompty core package",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -44,5 +44,8 @@
   "jest": {
     "preset": "ts-jest",
     "testEnvironment": "node"
+  },
+  "repository": {
+    "url": "https://github.com/microsoft/prompty"
   }
 }
